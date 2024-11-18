@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Raka Wirabuana Ninagan.<br><br>I'm an undergraduate student in informatics department. Most of my experience so far is developing a website and PC games. I'm willing to learn anything related to programming, and currently i'm learning a VR & AR software.
+My name is Raka Wirabuana Ninagan.<br><br>I'm an undergraduate student in informatics department. My programming focus is in website and game development. Outside my programming works, I also compose & arrange music especially for game development
 
 
 ## 🌐 Socials:
